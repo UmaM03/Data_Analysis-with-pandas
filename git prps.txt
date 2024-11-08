@@ -1,0 +1,3 @@
+git remote add origin https://github.com/UmaM03/Data_Analysis-with-pandas.git
+git branch -M main
+git push -u origin main
